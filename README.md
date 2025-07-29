@@ -1,4 +1,4 @@
-see: http://localhost:8000/spring-data/redis/spring-boot-redis.html 
+see: http://spring-guides.marcuschiu.com/spring-data/redis/spring-boot-redis.html 
 
 # Install Redis
 - `brew install redis`
